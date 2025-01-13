@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-## Available Scripts
+# Running the NewsApp
 
 In the project directory, you can run:
 
